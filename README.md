@@ -29,4 +29,4 @@ The data cleaning was performed using Power Query and analyzed using powerBI
 - Because AAA and AA batteries have a high order volume and will eventually become a noticeable source of revenue, it is imperative to concentrate on them.
   
 This is the link to the final dashboard.
-  https://drive.google.com/file/d/1HvBmp33_6mbNFS3iIeaH0yTyUjGRwg3F/view?usp=drive_link
+  https://drive.google.com/file/d/1F4HPeii5atqZXj-CeuDNpMBbgGNrJp9I/view?usp=drive_link
