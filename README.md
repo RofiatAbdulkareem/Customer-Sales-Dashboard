@@ -21,7 +21,7 @@ The data cleaning was performed using Power Query and analyzed using powerBI
 
 5.  In terms of orders placed, the USB-C and Lightning charging cables came in top and second place, respectively. Also, with 23.975 thousand and 23.217 thousand units ordered, respectively, they took third and fourth place in terms of amount ordered.
 
-**RECOMMENDTION**
+**RECOMMENDATION**
 - Since the Macbook Pro laptop has the largest number of sales, it is imperative that attention be paid to it. In response to consumer demands and market trends, they take into account extending their product line.
   
 - They can take advantage of the Christmas season and special promotions to enhance sales at this time. They should also optimize inventory management to meet the increased demand during peak seasons, especially in light of the good performance in the fourth quarter.
